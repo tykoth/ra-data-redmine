@@ -1,0 +1,25 @@
+{
+  "name": "ra-data-redmine",
+  "version": "1.0.0",
+  "description": "Experimental read-admin data provider and samples connecting to redmine API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tykoth/ra-data-redmine.git"
+  },
+  "keywords": [
+    "react",
+    "react-admin",
+    "reactjs",
+    "redmine"
+  ],
+  "author": "Thiago Bocchile <tykoth@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tykoth/ra-data-redmine/issues"
+  },
+  "homepage": "https://github.com/tykoth/ra-data-redmine#readme"
+}
